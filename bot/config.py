@@ -14,6 +14,8 @@ class Config:
 
     CLIENT_SECRET = ""
 
+    BOT_OWNER = ""
+
     AUTH_USERS = [6429196555]
 
     VIDEO_DESCRIPTION = ""
